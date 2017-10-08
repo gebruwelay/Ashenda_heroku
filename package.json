@@ -1,0 +1,30 @@
+{
+  "name": "ashenda_server",
+  "version": "1.0.0",
+  "description": "server side",
+  "main": "Ashenda_Server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "https://github.com/gebruwelay/Ashenda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gebruwelay/Ashenda.git"
+  },
+  "keywords": [
+    "Gebru",
+    "Ashenda"
+  ],
+  "author": "Gebru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gebruwelay/Ashenda/issues"
+  },
+  "homepage": "https://github.com/gebruwelay/Ashenda#readme"
+}
