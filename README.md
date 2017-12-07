@@ -1,7 +1,7 @@
-# This project is client side mobile application with cordova
-# Aim: allows to create polyons show high , medium or high crowded people on aerial imagery of major events in this case football match
-# steps to make functional 
-# you can download the application from my dropbox :https://www.dropbox.com/s/mlxdmgyvj72sv38/Ashenda_1_min.apk?dl=0
+This project is client side mobile application with cordova
+Aim: allows to create polyons show high , medium or high crowded people on aerial imagery of major events in this case football match
+steps to make functional 
+you can download the application from my dropbox :https://www.dropbox.com/s/mlxdmgyvj72sv38/Ashenda_1_min.apk?dl=0
 
 1.download and install nodejs
 # Clone 
